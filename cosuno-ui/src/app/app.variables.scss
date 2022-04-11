@@ -1,0 +1,29 @@
+:root {
+
+  // colors
+  --bg-back: white;
+  --on-back: #242729;
+
+  --bg-surface: white;
+  --bg-surface-hover: rgba(0, 0, 0, 0.05);
+  --bg-surface-border: #c1c1c1;
+  --on-surface: #3d4f58;
+  --on-surface-soft: #768082;
+
+  --bg-error: #b00020;
+  --on-error: white;
+
+  --bg-primary: #6200ee;
+  --bg-primary-variant: #3700b3;
+  --on-primary: white;
+
+  --bg-secondary: #03dac6;
+  --bg-secondary-variant: #018786;
+  --on-secondary: black;
+
+  // sizes
+  --max-content-width: 136.8rem;
+
+  --side-menu-width: 16rem;
+  --panel-border-radius: .25rem;
+}
